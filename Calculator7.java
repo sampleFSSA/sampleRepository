@@ -21,7 +21,8 @@ private String currentExpression;
 public Calculator7()
     {
 //declare JFrame container, JButton components, and JTextField component
-      JFrame calculatorFrame=new JFrame();
+currentExpression="";
+JFrame calculatorFrame=new JFrame();
      JTextField outputBox=new JTextField(40);
       JButton add=new JButton("+");
       JButton subtract=new JButton("-");
