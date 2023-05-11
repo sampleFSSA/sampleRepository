@@ -1,4 +1,4 @@
-/*Calculator7.java
+/*Calculator8.java
 Code created by AP CSA at FSSA with Mr. Moore amoore@schools.nyc.gov
 Version for Calculator lessons 1-4:  This includes JFrame, JButtons, and JTextField. All components have been sized, placed, and added to the container.  All ActionListeners have been added to buttons.  Methods have been created to do calculations.
 Lab 12 - Work with your assigned partner over three days.  You may work at home if desired, but this is not required.  Start with code-along code from class, which can be found at our shared GitHub repository at https://github.com/sampleFSSA  
